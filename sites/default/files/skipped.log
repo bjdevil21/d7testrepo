@@ -1,0 +1,11 @@
+Below is a list of files we were unable to include in this backup. These files
+are not missing, but were not available in our file-store cloud at the time the
+tarball was made or are not backed up because they can be generated. In almost
+all cases these will be resolved the next time you generate a backup or export.
+
+/styles/asu_header_image/public/header.png: Generated files are not backed up
+/js/wysiwyg/wysiwyg_tinymce_x0XWUUzLwlarMQMfiisFHdkxPwCUDmxbbsshTHEbyJI.js: Generated files are not backed up
+
+If you need immediate access to the files listed here, or have questions about
+the state of your files, you can contact support via your Dashboard.
+
